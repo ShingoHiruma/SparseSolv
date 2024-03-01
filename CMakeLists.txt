@@ -29,5 +29,6 @@ if(PYBIND_EXPORT)
 endif()
 
 # sample 
-add_subdirectory(examples/VoxelFEM)
+# add_subdirectory(examples/VoxelFEM)
+add_subdirectory(examples/example_abmc)
 
